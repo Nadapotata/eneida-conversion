@@ -9,4 +9,7 @@ def ounces_to_grams(ounces):
 	ounces = grams
 	return grams
 
+def moles2atoms(mol):
+    atoms = mols * 6.02e23
+    return atoms
 
