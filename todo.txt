@@ -3,3 +3,5 @@ Conversion tools
 - Dollars to cents
 - Gallons to liters
 - Hours to minutes
+- Miles to feet
+- Ounces to grams
